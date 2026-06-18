@@ -1,7 +1,7 @@
 # 💫 About Me:
 I a’m BCA student parul University full stack development | React.js, Node.js, Express,js, MongoDB | Gen AI, Open AI | Building Real-World Web applications
 
-
+ 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kailashsuthar1223) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kailash-suthar-dfdaa61389/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Kailash Suthar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kailashsuthar0723@gmail.com) 
 
