@@ -1,5 +1,5 @@
 # 💫 About Me:
-I a’m BCA student parul University full stack development | React.js, Node.js, Express,js, MongoDB | Gen AI, Open AI | Building Real-World Web applications
+I a’m BCA student parul University full stack development | React.js, Node.js, Express,js, MongoDB | Gen AI, Open AI | Building Real-World Web applications 
 
  
 ## 🌐 Socials:
